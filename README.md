@@ -1,0 +1,2 @@
+# HratkySJavascriptem
+yes
